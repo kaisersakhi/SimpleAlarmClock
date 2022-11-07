@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Set The Alarm - Task</string>
+    <string name="alarm_service">alarm_service</string>
+</resources>
