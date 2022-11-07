@@ -16,7 +16,7 @@ object AppAlarm {
     private var numberOfAlarms = 0
     private var bid = 0 //will signify broadcast id
     private val TAG = this::class.simpleName
-    private const val timeGap = 1 * 60 * 1000 // 5 minutes
+    private const val timeGap = 5 * 60 * 1000 // 5 minutes
 
     init {
         Log.d(this::class.simpleName, ": object created")
